@@ -24,3 +24,11 @@ Tree built using the Neighbor-Joining method.
 
 **Visualization**  
 Tree visualized with Matplotlib + Biopython.
+
+##Project by [Akshata P Pauskar]
+
+---
+
+## License
+
+This project is open-source and free to use under the MIT License.
