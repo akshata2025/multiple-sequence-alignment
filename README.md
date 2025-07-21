@@ -40,6 +40,13 @@ Tree visualized with Matplotlib + Biopython.
 
 ##Project by [Akshata P Pauskar]
 
+
+### Run in Google Colab:
+
+Click the badge below to open and run the notebook in Colab directly:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshata2025/cytochrome-c-alignment/blob/main/notebook.ipynb)
+
 ---
 
 ## License
