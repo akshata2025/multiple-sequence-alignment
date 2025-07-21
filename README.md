@@ -45,7 +45,7 @@ Tree visualized with Matplotlib + Biopython.
 
 Click the badge below to open and run the notebook in Colab directly:
 
-[![Open In Colab](https://colab.research.google.com/github/akshata2025/multiple-sequence-alignment/blob/main/msa_phylogenetree.ipynb)
+[![Open In Colab] (https://colab.research.google.com/github/akshata2025/multiple-sequence-alignment/blob/main/msa_phylogenetree.ipynb)
 
 ---
 
