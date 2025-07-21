@@ -1,0 +1,51 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+[Drosophila_melanogaster],      --------------------------------------------MGVPAGDVE-----KG	11
+[Homo_sapiens]                  ------------------------------------------------MGDVE-----KG	7
+[Escherichia_coli]              MRGKKRIGLLFLLIAVVVGGGGLLLAQKALHKTSDTAFCLSCHSMSKPFEEYQGTVHFSN	60
+[Mus_musculus]                  ------------------------------------------------MGDVE-----KG	7
+[Equus_caballus]                ------------------------------------------------MGDVE-----KG	7
+                                                                                  : :     ..
+
+[Drosophila_melanogaster],      KKLFVQRCAQCHTVEAGGKHKVG------PNLHGLIGRKTGQAAGFAYTDANKAKGITWN	65
+[Homo_sapiens]                  KKIFIMKCSQCHTVEKGGKHKTG------PNLHGLFGRKTGQAPGYSYTAANKNKGIIWG	61
+[Escherichia_coli]              QKGIRAECADCHIPKSGMDYLFAKLKASKDIYHEFVSGKIDSDDKFEAH-RQEMAETVWK	119
+[Mus_musculus]                  KKIFVQKCAQCHTVEKGGKHKTG------PNLHGLFGRKTGQAAGFSYTDANKNKGITWG	61
+[Equus_caballus]                KKIFVQKCAQCHTVEKGGKHKTG------PNLHGLFGRKTGQAPGFTYTDANKNKGITWK	61
+                                :* :  .*::**  : * .:  .         * :.. * ..   :     ::     * 
+
+[Drosophila_melanogaster],      EDTLF--------------------------------------EY---------------	72
+[Homo_sapiens]                  EDTLM--------------------------------------EY---------------	68
+[Escherichia_coli]              ELKATDSATCRSCHSFDAMDIASQSESAQKMHNKAQKDGETCIDCHKGIAHFPPEIKMDD	179
+[Mus_musculus]                  EDTLM--------------------------------------EY---------------	68
+[Equus_caballus]                EETLM--------------------------------------EY---------------	68
+                                * .                                        :                
+
+[Drosophila_melanogaster],      ---------------------------LENPKKYIPGTKMIFAGLKKPNERGDLIAYLKS	105
+[Homo_sapiens]                  ---------------------------LENPKKYIPGTKMIFVGIKKKEERADLIAYLKK	101
+[Escherichia_coli]              NAAHELESQAATSVTNGAHIYPFKTSRIGELATVTPGTDLTVVDASGKQPIVRLQGYQMQ	239
+[Mus_musculus]                  ---------------------------LENPKKYIPGTKMIFAGIKKKGERADLIAYLKK	101
+[Equus_caballus]                ---------------------------LENPKKYIPGTKMIFAGIKKKTEREDLIAYLKK	101
+                                                           : :  .  ***.: ... .       * .*  .
+
+[Drosophila_melanogaster],      ATK---------------------------------------------------------	108
+[Homo_sapiens]                  ATNE--------------------------------------------------------	105
+[Escherichia_coli]              GSENTLYLAAGQRLALATLSEEGIKALTVNGEWQADEYGNQWRQASLQGALIDPALADRK	299
+[Mus_musculus]                  ATNE--------------------------------------------------------	105
+[Equus_caballus]                ATNE--------------------------------------------------------	105
+                                .::                                                         
+
+[Drosophila_melanogaster],      ------------------------------------------------------------	108
+[Homo_sapiens]                  ------------------------------------------------------------	105
+[Escherichia_coli]              PLWQYAEKLDGTYCAGCHAPIAADHYTVNTWPSIAKGMGARTSMSENELDILTRYFQYNA	359
+[Mus_musculus]                  ------------------------------------------------------------	105
+[Equus_caballus]                ------------------------------------------------------------	105
+                                                                                            
+
+[Drosophila_melanogaster],      -------	108
+[Homo_sapiens]                  -------	105
+[Escherichia_coli]              KDITEKQ	366
+[Mus_musculus]                  -------	105
+[Equus_caballus]                -------	105
+                                       
