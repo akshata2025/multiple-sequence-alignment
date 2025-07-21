@@ -12,3 +12,13 @@ This project performs **Multiple Sequence Alignment (MSA)** and **Phylogenetic T
 | `cytochrome_c_tree.newick` | Phylogenetic tree in Newick format |
 | `cytochrome_c_tree.png` | Visualized phylogenetic tree (PNG image) |
 | `notebook.ipynb` | Full analysis pipeline (Google Colab/Jupyter Notebook) |
+
+## Workflow Overview
+
+**Input Sequences**  
+Cytochrome C protein sequences from:  
+- *Drosophila melanogaster*  
+- *Homo sapiens*  
+- *Escherichia coli*  
+- *Mus musculus*  
+- *Equus caballus*
