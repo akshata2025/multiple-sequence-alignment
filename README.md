@@ -11,7 +11,7 @@ This project performs **Multiple Sequence Alignment (MSA)** and **Phylogenetic T
 | `cytochrome_distance_matrix.csv` | Pairwise distance matrix (BLOSUM62) |
 | `cytochrome_c_tree.newick` | Phylogenetic tree in Newick format |
 | `cytochrome_c_tree.png` | Visualized phylogenetic tree (PNG image) |
-| `notebook.ipynb` | Full analysis pipeline (Google Colab/Jupyter Notebook) |
+| `msa_phylogenetree.ipynb` | Full analysis pipeline (Google Colab/Jupyter Notebook) |
 
 ---
 
@@ -45,7 +45,7 @@ Tree visualized with Matplotlib + Biopython.
 
 Click the badge below to open and run the notebook in Colab directly:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshata2025/cytochrome-c-alignment/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshata2025/cytochrome-c-alignment/blob/main/msa_phylogenetree.ipynb)
 
 ---
 
